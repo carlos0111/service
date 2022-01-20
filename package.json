@@ -1,0 +1,27 @@
+{
+  "name": "serviceMaker",
+  "version": "1.0.0",
+  "description": "# 제목 1 ## 제목 2 ### 제목 3 #### 제목 4 ##### 제목 5 ###### 제목 6",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build" : "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlos0111/service.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlos0111/service/issues"
+  },
+  "homepage": "https://github.com/carlos0111/service#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
